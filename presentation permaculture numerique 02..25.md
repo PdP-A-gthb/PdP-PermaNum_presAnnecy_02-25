@@ -10,7 +10,7 @@ size:4.3
 # pour une intimité et souveraineté numérique
 
 Sabrina Bailly
-pour la Pépinièrre des Possibles
+pour la Pépinière des Possibles
 ![bg left contain](logo_2023_draft_avec_3p_detail.svg)
 
 ---
@@ -27,7 +27,7 @@ Une éthique de Vie basée sur 3 principes fondamentaux
 
 - Eviter les outils du capitalisme de surveillance (GAFAM)
 - Favoriser les logiciels libres et open source
-- Repenser les usages : la technologie au service le l'huamisn et non l'inverse
+- Repenser les usages : la technologie au service le l'huamain et non l'inverse
 - Vigilance réseaux sociaux  (addiction, harcelement, deconnection du réel.. )
 
 ---
@@ -44,9 +44,21 @@ Une éthique de Vie basée sur 3 principes fondamentaux
 - Communs numériques
 
 ---
-# Le Libre ou open source 
+# Le Libre et l' open source 
 
+## Logiciel libre 
+offre 4 libertés principales:
 
+- executer
+- copier
+- distribuer
+- modifier/améliorer le code source
+
+## Open source
+
+se réfère à la disponibilité du code source d'un logiciel, permettant à quiconque de le consulter, de le modifier et de le distribuer. 
+---
+!(/)
 ---
 
 # Usages
